@@ -41,5 +41,6 @@ Mục tiêu cuối khóa: tự huấn luyện một mô hình của riêng mình
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-10-21 | 01-math-foundations/01-linear-algebra-intuition | 3/3 | Chưa tự tính được Gram-Schmidt (u1..u3); nhầm x.grad với "gradient để fit label" thay vì ∂(x·y)/∂x = y |
+| 2026-10-21 | 01-math-foundations/02-vectors-matrices-operations | 2/2 | Nhầm thứ tự shape X@W (đưa W=(128,32)); cho bias chiều batch (32,) thay vì (out,); tính sai ô matmul do lặp phần tử hàng (3·5+3·7) |
 
 ## Review queue
