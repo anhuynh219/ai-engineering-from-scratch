@@ -40,5 +40,6 @@ Mục tiêu cuối khóa: tự huấn luyện một mô hình của riêng mình
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-21 | 01-math-foundations/01-linear-algebra-intuition | 3/3 | Chưa tự tính được Gram-Schmidt (u1..u3); nhầm x.grad với "gradient để fit label" thay vì ∂(x·y)/∂x = y |
 
 ## Review queue
