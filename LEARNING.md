@@ -25,7 +25,7 @@ Mục tiêu cuối khóa: tự huấn luyện một mô hình của riêng mình
 | 7 | Transformers Deep Dive | Skip | -- |
 | 8 | Generative AI | Skip | -- |
 | 9 | Reinforcement Learning | Skip | -- |
-| 10 | LLMs from Scratch | Skip | -- |
+| 10 | LLMs from Scratch | Do | 26 |
 | 11 | LLM Engineering | Do | 19 |
 | 12 | Multimodal AI | Do | 65 |
 | 13 | Tools & Protocols | Do | 76 |
@@ -35,7 +35,7 @@ Mục tiêu cuối khóa: tự huấn luyện một mô hình của riêng mình
 | 17 | Infrastructure & Production | Do | 34 |
 | 18 | Ethics, Safety & Alignment | Do | 31 |
 | 19 | Capstone Projects | Do | 620 |
-| | **Total (Review + Do)** | | **971** |
+| | **Total (Review + Do)** | | **997** |
 
 ## Progress log
 | Date | Lesson | Quiz | Note |
